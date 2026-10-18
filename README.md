@@ -1,7 +1,7 @@
 ## Структура проекта
 
 ```
-obesity_prediction/
+Obesity_Prediction/
 ├── data/
 │   ├── raw/
 │   │   ├── Obesity_Prediction_Dataset.csv

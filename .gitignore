@@ -1,1 +1,10 @@
+%%writefile /content/drive/MyDrive/repo/.gitignore
+# Данные и модели – на Google Drive, не в Git
+data/
+models/
+Obesity*.csv
 
+# Служебные файлы
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
